@@ -1,0 +1,22 @@
+.button {
+  background-color: #3382e3;
+  color: white;
+  border: 0;
+  border-radius: 4px;
+  padding: 7px 16px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.disabled {
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}
+
+.primary {
+  background-color: #3382e3;
+  color: white;
+}

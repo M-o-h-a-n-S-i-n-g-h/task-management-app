@@ -1,0 +1,6 @@
+.board {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  gap: 15px;
+}
